@@ -8,7 +8,7 @@ form.
 
 A practical use of such a converter could perhaps be applied to calculators, where the buttons for each digit would be
 connected to the decimal inputs of this converter. The binary output in turn, could be connected to a set of registers,
-which then would parse their values to a ALU.
+which then would parse their values to an ALU.
 
 ## Truth table
 
