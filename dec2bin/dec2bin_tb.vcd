@@ -1,0 +1,75 @@
+$date
+  Wed Dec 18 14:31:39 2019
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module dec2bin_tb $end
+$var reg 10 ! dec_tb[9:0] $end
+$var reg 4 " bin_tb[3:0] $end
+$scope module dec2bin_inst $end
+$var reg 10 # dec[9:0] $end
+$var reg 4 $ bin[3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000000001 !
+b0000 "
+b0000000001 #
+b0000 $
+#5000000
+b0000000010 !
+b0001 "
+b0000000010 #
+b0001 $
+#10000000
+b0000000100 !
+b0010 "
+b0000000100 #
+b0010 $
+#15000000
+b0000001000 !
+b0011 "
+b0000001000 #
+b0011 $
+#20000000
+b0000010000 !
+b0100 "
+b0000010000 #
+b0100 $
+#25000000
+b0000100000 !
+b0101 "
+b0000100000 #
+b0101 $
+#30000000
+b0001000000 !
+b0110 "
+b0001000000 #
+b0110 $
+#35000000
+b0010000000 !
+b0111 "
+b0010000000 #
+b0111 $
+#40000000
+b0100000000 !
+b1000 "
+b0100000000 #
+b1000 $
+#45000000
+b1000000000 !
+b1001 "
+b1000000000 #
+b1001 $
+#50000000
